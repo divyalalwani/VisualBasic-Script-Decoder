@@ -1,5 +1,4 @@
-# VBScript-Decoder
-# vbe-decoder.py
+## VBScript-Decoder
 
 Decode one or multiple encoded VBScript files, often seen with a `.vbe` file extension.
 
