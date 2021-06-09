@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 
-__description__ = "Decode an encoded VBScript, often seen as a .vbe file"
+__description__ = "Decode an encrypted VBScript, often seen as a .vbe file"
 
 
 """
-Credit for this baseline code goes to Didier Stevens, from his original repo.
-https://github.com/DidierStevens/DidierStevensSuite/blob/master/decode-vbe.py
-
 
 import argparse
 import sys
